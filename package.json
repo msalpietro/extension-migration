@@ -11,6 +11,14 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "contentful-management": "^4.0.1",
-    "dotenv": "^4.0.0"
+    "csv-export": "^1.0.1",
+    "dotenv": "^4.0.0",
+    "eslint": "^4.10.0",
+    "limiter": "^1.1.2",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
   }
 }
