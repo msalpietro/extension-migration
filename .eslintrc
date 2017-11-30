@@ -1,0 +1,15 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 8
+  },
+  "env": {
+    "browser": true,
+    "jquery": true,
+    "node": true
+  },
+  "settings": {
+    "import/extensions": [".js"]
+  },
+  "rules": {
+  }
+}
